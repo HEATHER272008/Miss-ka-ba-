@@ -1,0 +1,14 @@
+project_id = "bzgeiravohnovmcvfkdd"
+
+[functions.send-notification]
+verify_jwt = false
+
+[functions.send-sms]
+verify_jwt = false
+
+[functions.send-email]
+verify_jwt = false
+
+[functions.provision-user]
+verify_jwt = false
+
